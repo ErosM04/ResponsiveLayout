@@ -1,0 +1,25 @@
+div{
+    height: 250px;
+    margin-top: 0.1%;
+}
+
+#red{
+    background-color: rgb(226, 47, 47);
+}
+
+#green{
+    background-color: rgb(37, 146, 37);
+}
+
+#blue{
+    background-color: rgb(65, 65, 231);
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+.rounded{
+    border: 1px solid black;
+    border-radius: 20px;
+}
